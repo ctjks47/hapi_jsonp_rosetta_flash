@@ -33,7 +33,8 @@ server.route({
   config: {
     handler: function (request, reply) {
       reply({foo: 'bar'});
-    }
+    },
+    jsonp: 'callback'
   }
 });
 

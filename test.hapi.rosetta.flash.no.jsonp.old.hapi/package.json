@@ -9,6 +9,6 @@
   "author": "codiscope",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^13.3.0"
+    "hapi": "^5.0.0"
   }
 }
